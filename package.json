@@ -1,0 +1,30 @@
+{
+  "name": "SPRINT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "sprint": "index.js"
+  },
+  "scripts": {
+    "start": "sprint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SISBEST/SPRINT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SISBEST/SPRINT/issues"
+  },
+  "homepage": "https://github.com/SISBEST/SPRINT#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^6.1.0",
+    "express": "^4.17.1",
+    "fs-extra": "^9.0.1",
+    "minify": "^6.0.0"
+  }
+}
